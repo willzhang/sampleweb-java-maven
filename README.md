@@ -1,6 +1,6 @@
 ## sampleweb-java-maven
 
-介绍：基于java httpserver模块实现简单的web服务器，并使用maven进行构建。
+介绍：基于java 内置httpserver模块实现简单的web服务器，并使用maven进行构建。
 
 ## 快速入门
 
